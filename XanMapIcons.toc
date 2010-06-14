@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: XanMapIcons
+## Notes: Improved raid/party group icons for the regular and battlefield map.
+## Author: Xruptor
+## Version: 1.1
+
+XanMapIcons.lua
