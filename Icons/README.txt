@@ -1,0 +1,1 @@
+These icons were created by Hendrik "Nevcairiel" Leppkes for his addon Mapster.  All credit goes to him.
